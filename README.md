@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width: 35%">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width: 5%">
 -  I am PARITOSH DEV (@Paritosh-26dev), a sophomore in the department of computer science engineering at BIT Mesra. I am a keen learner and a passionate self-taught full stack web developer. At present, involved in enhancing skills in the field of programming.
 - I’m currently learning data structures and algorithms, also building websites for my projects. If you wish to collaborate, just contact me 😄 
  <br />
