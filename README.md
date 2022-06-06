@@ -5,8 +5,8 @@
 - I’m currently learning data structures and algorithms, also building websites for my projects. If you wish to collaborate, just contact me 😄
  <br />
 
-   [![Gmail Badge](https://img.shields.io/badge/-P Dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paritoshdev26@gmail.com)](mailto:paritoshdev26@gmail.com)
-   [![Facebook Badge](https://img.shields.io/badge/-P Dev-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/paritosh.dev.31/)
+   [![Gmail Badge](https://img.shields.io/badge/-PDev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paritoshdev26@gmail.com)](mailto:paritoshdev26@gmail.com)
+   [![Facebook Badge](https://img.shields.io/badge/-PDev-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/paritosh.dev.31/)
 <a href="https://instagram.com/paritosh_26dev">
   <img align="left" alt="Paritosh's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
