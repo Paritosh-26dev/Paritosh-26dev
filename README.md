@@ -9,9 +9,9 @@
 
 
 ### :woman_technologist: &nbsp;About Me:
-- I am @Paritosh-26dev, a senior in the department of computer science engineering at BIT Mesra. I am a keen learner and a passionate self-taught full stack web developer. At present, involved in enhancing skills in the field of programming.
+- I am @Paritosh-26dev, a software developer at Texas Instruments from the department of computer science engineering at BIT Mesra. I am a keen learner and a passionate self-taught full stack web developer. At present, involved in enhancing skills in the field of programming.
 - I’m confident in my data structures and algorithms skills, apart from building websites for my projects.
-- I have interned in Texas Instruments and bagged a PPO offer recently. If you wish to collaborate, just contact me 😄
+- I also have experince in DevOps tools and interest in various open souce contributions. If you wish to collaborate, just contact me 😄
 - <a href="https://instagram.com/paritosh_26dev">
    <img align="left" alt="Paritosh's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
